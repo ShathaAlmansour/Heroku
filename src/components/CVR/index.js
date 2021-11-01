@@ -130,6 +130,9 @@ export default function CVR() {
       <div>
         <h1 className="h1"><DiJavascript className="icon"/> SKILLS </h1>
         <hr></hr>
+        <b><h3 className="g">Html,</h3></b>
+        <b><h3 className="g">CSS,</h3></b>
+        <b><h3 className="g">javascript</h3></b>
       </div>
 
       <div>
