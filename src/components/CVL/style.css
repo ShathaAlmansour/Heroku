@@ -1,0 +1,38 @@
+.lift{
+    width: 25%;
+    background-color: white;
+    
+}
+.img {
+    border-radius: 100%;
+    padding: 10px;
+}
+.h2{
+    text-align: center;
+}
+.h3{
+    color: gray;
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+.m{
+   align-content: center;
+}
+.icon1{
+    padding: 10px;
+    color: gray;
+}
+.icon2{
+    font-size: 50px;
+    color: black;
+   
+}
+.link li{
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 5px;
+    margin-left: 40px;
+}

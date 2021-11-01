@@ -1,11 +1,18 @@
-import React, { Component } from 'react'
+import React, { useState , useEffect } from 'react'
+import CVL from "./components/CVL"
+import CVR from "./components/CVR"
+import "./App.css"
 
-export default class App extends Component {
-  render() {
+
+const App = () => {
     return (
-      <div>
-        <h1>your clean react code</h1>
+      <div className="cont">
+        <CVL />
+        <CVR />
       </div>
     )
   }
-}
+
+
+  
+  export default App;
